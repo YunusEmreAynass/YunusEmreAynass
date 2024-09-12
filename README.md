@@ -34,3 +34,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusemreaynass&show_icons=true&locale=en" alt="yunusemreaynass" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemreaynass&" alt="yunusemreaynass" /></p>
+
+![snake gif](https://github.com/YunusEmreAynass/YunusEmreAynass/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
