@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YunusEmreAynass?tab=repositories](https://github.com/YunusEmreAynass?tab=repositories)
 
-- 💬 Ask me about **C#, Python, Java, Javascript, HTML, CSS,PHP,React,Mysql**
+- 💬 Ask me about **C#, Python, Java, Javascript, HTML, CSS, PHP, React, Mysql**
 
 - 📫 How to reach me **yunusemreaynas@gmail.com**
 
