@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusemreaynass" alt="yunusemreaynass" /></a> </p>
 
-- 🔭 I’m currently working on [Employee Management System](https://github.com/YunusEmreAynass/Login_Page](https://github.com/YunusEmreAynass/employee-management-system)
+- 🔭 I’m currently working on [Employee Management System](https://github.com/YunusEmreAynass/employee-management-system)
 
 - 🌱 I’m currently learning **React**
 
