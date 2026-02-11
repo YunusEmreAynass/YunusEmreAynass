@@ -1,45 +1,76 @@
- ![MasterHead](https://fortune.com/img-assets/wp-content/uploads/2024/02/AI-programming-languages-GettyImages-1518874007-e1709244825422.jpg?w=1440&q=60)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20I'm%20Yunus%20Emre&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
+<div align="center">
+  <h3> 👨‍💻 Full Stack Developer from Turkey 🇹🇷 </h3>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/yunus-emre-aynas-332296272/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:yunusemreaynas@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/emre.aynas">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-<h1 align="center">Hi 👋, I'm Yunus Emre</h1>
-<h3 align="center">Full stack developer from Turkey</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusemreaynass&label=Profile%20views&color=0e75b6&style=flat" alt="yunusemreaynass" /> </p>
+### 🚀 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusemreaynass" alt="yunusemreaynass" /></a> </p>
+- 🔭 **Working on:** [Employee Management System](https://github.com/YunusEmreAynass/employee-management-system) - *Building scalable enterprise solutions.*
+- 🌱 **Learning:** Currently diving deep into **React** and modern Frontend architectures.
+- ⚡ **Fun Fact:** I love combining the logic of **Java (Spring Boot)** with the agility of **React**.
+- 🥅 **Goal:** Contributing to open-source projects and mastering Cloud technologies.
 
-- 🔭 I’m currently working on [Employee Management System](https://github.com/YunusEmreAynass/employee-management-system)
+---
 
-- 🌱 I’m currently learning **React**
+### 🛠 Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/YunusEmreAynass?tab=repositories](https://github.com/YunusEmreAynass?tab=repositories)
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-- 💬 Ask me about **C#, Python, Java, Javascript, HTML, CSS, PHP, React, Mysql**
+---
 
-- 📫 How to reach me **yunusemreaynas@gmail.com**
+### 📊 GitHub Analytics
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yunus-emre-aynas-332296272/](https://www.linkedin.com/in/yunus-emre-aynas-332296272/)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunusemreaynass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreaynass&layout=compact&theme=tokyonight" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yunus-emre-aynas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus-emre-aynas" height="30" width="40" /></a>
-<a href="https://instagram.com/emre.aynas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emre.aynas" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemreaynass&theme=tokyonight" width="100%" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+---
 
-</p>
+### 🐍 Contribution Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusemreaynass&show_icons=true&locale=en&layout=compact" alt="yunusemreaynass" /></p>
+<div align="center">
+  <img src="https://github.com/YunusEmreAynass/YunusEmreAynass/blob/output/github-contribution-grid-snake.gif" width="100%" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yunusemreaynass&show_icons=true&locale=en" alt="yunusemreaynass" /></p>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemreaynass&" alt="yunusemreaynass" /></p>
-
-![snake gif](https://github.com/YunusEmreAynass/YunusEmreAynass/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yunusemreaynass&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</div>
