@@ -4,14 +4,14 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Yunus%20Emre%20Aynaş&fontSize=72&animation=twinkling&fontColor=00d4ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React&descSize=18&descAlignY=60&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Yunus%20Emre%20Aynaş&fontSize=72&animation=fadeIn&fontColor=00d4ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React&descSize=18&descAlignY=60&descColor=a78bfa" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=⚡+Building+scalable+solutions+from+scratch;☕+Turning+Coffee+into+Clean+Code;🚀+Full+Stack+%7C+Java+%26+Spring+Boot+%7C+React;🔥+Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=600&height=50&lines=⚡+Building+scalable+solutions+from+scratch;☕+Turning+Coffee+into+Clean+Code;🚀+Full+Stack+%7C+Java+%26+Spring+Boot+%7C+React;🔥+Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/>
