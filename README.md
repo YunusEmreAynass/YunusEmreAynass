@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Yunus%20Emre%20Aynaş&fontSize=72&animation=fadeIn&fontColor=00d4ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React&descSize=18&descAlignY=60&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Yunus%20Emre%20Aynas&fontSize=72&animation=fadeIn&fontColor=00d4ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React&descSize=18&descAlignY=60&descColor=a78bfa" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                            -->
