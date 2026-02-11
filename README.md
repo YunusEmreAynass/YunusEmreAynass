@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                      -->
+<!--                    HEADER ANIMATION                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Yunus%20Emre%20Aynaş&fontSize=72&animation=twinkling&fontColor=00d4ff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React&descSize=18&descAlignY=60&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,40,50&height=300&section=header&text=Yunus%20Emre%20Ayna%C5%9F&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=⚡+Building+scalable+solutions+from+scratch;☕+Turning+Coffee+into+Clean+Code;🚀+Full+Stack+%7C+Java+%26+Spring+Boot+%7C+React;🔥+Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Crafting+Elegant+Code;Full+Stack+Java+%26+React+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,174 +20,121 @@
 <!--                    SOCIAL BADGES                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-aynas-332296272/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunusemreaynas@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emre.aynas)
-[![Profile Views](https://komarev.com/ghpvc/?username=yunusemreaynass&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/YunusEmreAynass)
+<p>
+  <a href="https://www.linkedin.com/in/yunus-emre-aynas-332296272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:yunusemreaynas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/emre.aynas" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/YunusEmreAynass">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
+
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME Section                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td width="65%">
+      <blockquote>
+        "Code is poetry written in logic."
+      </blockquote>
+      <p>
+        Merhaba! I'm <b>Yunus Emre Aynaş</b>, a passionate Full Stack Developer from 🇹🇷 <b>Turkey</b>. 
+        I specialize in building robust backend systems with <b>Java Spring Boot</b> and dynamic user interfaces with <b>React</b>.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently working on:</b> Employee Management System</li>
+        <li>🌱 <b>Deepening knowledge in:</b> Cloud Architecture & AI Integrations</li>
+        <li>⚡ <b>Specialty:</b> Developing clean, scalable, and maintainable code solutions.</li>
+        <li>📫 <b>Goal:</b> Bridging the gap between complex logic and user-friendly experience.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME SECTION                            -->
+<!--                    TECH STACK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> &nbsp; About Me
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230px"/>
-
-```yaml
-Name:       Yunus Emre Aynaş
-Role:       Full Stack Developer
-Passion:    Building things that matter
-Location:   🇹🇷 Turkey
-
-Currently:
-  - 🔭 Working on: Employee Management System
-  - 🌱 Mastering: React Ecosystem (Redux, Context API)
-  - ⚡ Building: AI-integrated ISG tools
-  - 🎯 Goal: Scalable, clean & elegant code
-
-Philosophy: "Code is poetry written in logic."
-```
-
-<br clear="both"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ⚙️ Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cs,py,js,php,html,css&theme=dark&perline=7" />
-</p>
-
-### 🧩 Frameworks & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,redux,mysql,mssql,dotnet,hibernate&theme=dark&perline=7" />
-</p>
-
-### 🛠️ Dev Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker&theme=dark&perline=6" />
-</p>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SKILL BARS SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 Skill Levels
-
-<div align="center">
-
-| Technology | Proficiency | Level |
+| **Frontend** | **Backend** | **Tools & DevOps** |
 |:---:|:---:|:---:|
-| Java &amp; Spring Boot | `████████████████████` 95% | ⭐ 📈 Intermediate  |
-| React &amp; Redux | `████████████████░░░░` 80% | 🔥 Advanced |
-| C# &amp; .NET | `███████████████░░░░░` 75% | 📈 Intermediate |
-| MySQL / MS SQL | `█████████████████░░░` 85% | 📈 Intermediate |
-| Python | `████████████░░░░░░░░` 65% | 📈 Intermediate |
-| Docker | `███████████░░░░░░░░░` 60% | 🚀 Growing |
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/YunusEmreAynass">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yunusemreaynass&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/YunusEmreAynass">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunusemreaynass&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff"/>
-</a>
+| <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,bootstrap,tailwind" width="100%" /> | <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,hibernate" width="100%" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,postgres,vscode,postman" width="100%" /> |
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemreaynass&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00d4ff&fire=a78bfa&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=ffffff&dates=ffffff" width="70%"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    STATS SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<table style="border:none; border-collapse: collapse;">
+  <tr>
+    <td valign="top">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=yunusemreaynass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Yunus Emre's GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemreaynass&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunusemreaynass&bg_color=0D1117&color=00d4ff&line=a78bfa&point=00d4ff&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemreaynass&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="80%" />
+
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SNAKE ANIMATION                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Contribution Snake
+## 🐍 Contribution History
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YunusEmreAynass/YunusEmreAynass/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YunusEmreAynass/YunusEmreAynass/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/YunusEmreAynass/YunusEmreAynass/output/github-contribution-grid-snake.svg" width="100%"/>
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/YunusEmreAynass/YunusEmreAynass/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yunusemreaynass&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    QUOTE SECTION                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson" width="80%"/>
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    FOOTER                                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%"/>
+<br/>
 
 <div align="center">
-  <sub>⚡ Made with passion &amp; a lot of ☕ by <a href="https://github.com/YunusEmreAynass">Yunus Emre Aynaş</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,40,50&height=100&section=footer" width="100%" />
+  <p>⭐️ Thanks for visiting my profile!</p>
 </div>
